@@ -1,0 +1,6 @@
+@cat.config.transfer.api_HostAddress = http://localhost:5251
+
+GET {{cat.config.transfer.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
